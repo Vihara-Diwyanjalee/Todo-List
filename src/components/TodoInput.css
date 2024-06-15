@@ -1,0 +1,28 @@
+.plus-icon{
+    height: 14px;
+    width: 14px;
+}
+
+.todo-input-wrapper{
+    display: flex;
+    gap: 15px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #e2e8fe;
+}
+
+.todo-input-wrapper input{
+    background-color: #e2e8fe;
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+    font-family: 'Poppins',sans-serif;
+}
+
+.todo-input-wrapper button{
+    background-color: #d1fae5;
+    color: #059669;
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+}
